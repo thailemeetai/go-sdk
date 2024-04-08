@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 	"github.com/globalsign/mgo/bson"
-	"github.com/thailemeetai/go-sdk/go-sdk/sdkcm"
+	"github.com/thailemeetai/go-sdk/sdkcm"
 	"time"
 )
 

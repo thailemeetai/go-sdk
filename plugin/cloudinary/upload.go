@@ -7,7 +7,7 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/thailemeetai/go-sdk/go-sdk/sdkcm"
+	"github.com/thailemeetai/go-sdk/sdkcm"
 	"io"
 	"io/ioutil"
 	"mime/multipart"

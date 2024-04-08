@@ -10,7 +10,7 @@ import (
 	"flag"
 	_ "github.com/ClickHouse/clickhouse-go"
 	"github.com/jmoiron/sqlx"
-	"github.com/thailemeetai/go-sdk/go-sdk/logger"
+	"github.com/thailemeetai/go-sdk/logger"
 	"sync"
 	"time"
 )

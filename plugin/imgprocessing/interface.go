@@ -1,7 +1,7 @@
 package imgprocessing
 
 import (
-	"github.com/thailemeetai/go-sdk/go-sdk/sdkcm"
+	"github.com/thailemeetai/go-sdk/sdkcm"
 	"mime/multipart"
 )
 

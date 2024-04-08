@@ -2,7 +2,7 @@ package httpserver
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/thailemeetai/go-sdk/go-sdk/logger"
+	"github.com/thailemeetai/go-sdk/logger"
 	"math"
 	"os"
 	"time"

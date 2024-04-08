@@ -11,7 +11,7 @@ package sdkes
 import (
 	"flag"
 	"github.com/olivere/elastic/v7"
-	"github.com/thailemeetai/go-sdk/go-sdk/logger"
+	"github.com/thailemeetai/go-sdk/logger"
 	"log"
 	"os"
 )

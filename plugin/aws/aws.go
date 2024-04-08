@@ -13,8 +13,8 @@ import (
 	"github.com/aws/aws-sdk-go/aws/credentials"
 	"github.com/aws/aws-sdk-go/aws/session"
 	s32 "github.com/aws/aws-sdk-go/service/s3"
-	"github.com/thailemeetai/go-sdk/go-sdk/logger"
-	"github.com/thailemeetai/go-sdk/go-sdk/sdkcm"
+	"github.com/thailemeetai/go-sdk/logger"
+	"github.com/thailemeetai/go-sdk/sdkcm"
 )
 
 var (

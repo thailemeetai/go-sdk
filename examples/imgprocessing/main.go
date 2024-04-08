@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	goservice "github.com/thailemeetai/go-sdk/go-sdk"
-	"github.com/thailemeetai/go-sdk/go-sdk/plugin/imgprocessing"
-	"github.com/thailemeetai/go-sdk/go-sdk/sdkcm"
+	goservice "github.com/thailemeetai/go-sdk"
+	"github.com/thailemeetai/go-sdk/plugin/imgprocessing"
+	"github.com/thailemeetai/go-sdk/sdkcm"
 )
 
 func main() {

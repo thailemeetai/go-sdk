@@ -3,7 +3,7 @@ package asyncjob
 import (
 	"context"
 	"errors"
-	"github.com/thailemeetai/go-sdk/go-sdk/logger"
+	"github.com/thailemeetai/go-sdk/logger"
 	"time"
 )
 

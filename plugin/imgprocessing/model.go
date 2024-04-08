@@ -1,6 +1,6 @@
 package imgprocessing
 
-import "github.com/thailemeetai/go-sdk/go-sdk/sdkcm"
+import "github.com/thailemeetai/go-sdk/sdkcm"
 
 type Response struct {
 	sdkcm.AppError

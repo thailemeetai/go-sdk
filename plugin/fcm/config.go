@@ -2,7 +2,7 @@ package fcm
 
 import (
 	"errors"
-	"github.com/thailemeetai/go-sdk/go-sdk/sdkcm"
+	"github.com/thailemeetai/go-sdk/sdkcm"
 )
 
 var fcmErrors = map[string]string{

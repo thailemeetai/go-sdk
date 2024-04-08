@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/sirupsen/logrus"
-	goservice "github.com/thailemeetai/go-sdk/go-sdk"
-	"github.com/thailemeetai/go-sdk/go-sdk/plugin/storage/sdkes"
+	goservice "github.com/thailemeetai/go-sdk"
+	"github.com/thailemeetai/go-sdk/plugin/storage/sdkes"
 )
 
 func main() {

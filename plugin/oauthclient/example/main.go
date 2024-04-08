@@ -8,8 +8,8 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	goservice "github.com/thailemeetai/go-sdk/go-sdk"
-	"github.com/thailemeetai/go-sdk/go-sdk/plugin/oauthclient"
+	goservice "github.com/thailemeetai/go-sdk"
+	"github.com/thailemeetai/go-sdk/plugin/oauthclient"
 	"golang.org/x/oauth2/clientcredentials"
 	"net/http"
 )

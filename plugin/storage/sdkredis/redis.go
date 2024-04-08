@@ -29,7 +29,7 @@ package sdkredis
 import (
 	"flag"
 	"github.com/go-redis/redis/v7"
-	"github.com/thailemeetai/go-sdk/go-sdk/logger"
+	"github.com/thailemeetai/go-sdk/logger"
 )
 
 var (

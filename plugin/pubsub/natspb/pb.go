@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"flag"
 	"github.com/nats-io/nats.go"
-	"github.com/thailemeetai/go-sdk/go-sdk/logger"
-	pb "github.com/thailemeetai/go-sdk/go-sdk/plugin/pubsub"
+	"github.com/thailemeetai/go-sdk/logger"
+	pb "github.com/thailemeetai/go-sdk/plugin/pubsub"
 )
 
 type NatsOpt struct {

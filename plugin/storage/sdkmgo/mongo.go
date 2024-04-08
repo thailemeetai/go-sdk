@@ -8,7 +8,7 @@ package sdkmgo
 
 import (
 	"flag"
-	"github.com/thailemeetai/go-sdk/go-sdk/logger"
+	"github.com/thailemeetai/go-sdk/logger"
 	"math"
 	"sync"
 	"time"

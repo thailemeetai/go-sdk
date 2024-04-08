@@ -7,7 +7,7 @@
 package oauthclient
 
 import (
-	"github.com/thailemeetai/go-sdk/go-sdk/sdkcm"
+	"github.com/thailemeetai/go-sdk/sdkcm"
 	"net/url"
 	"strings"
 	"time"

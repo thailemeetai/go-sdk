@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"github.com/gin-gonic/gin"
 	socketio "github.com/googollee/go-socket.io"
-	goservice "github.com/thailemeetai/go-sdk/go-sdk"
-	"github.com/thailemeetai/go-sdk/go-sdk/logger"
-	"github.com/thailemeetai/go-sdk/go-sdk/sdkcm"
+	goservice "github.com/thailemeetai/go-sdk"
+	"github.com/thailemeetai/go-sdk/logger"
+	"github.com/thailemeetai/go-sdk/sdkcm"
 	"log"
 	"net/http"
 )

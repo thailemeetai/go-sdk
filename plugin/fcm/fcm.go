@@ -11,7 +11,7 @@ import (
 	"flag"
 	"fmt"
 	gofcm "github.com/NaySoftware/go-fcm"
-	"github.com/thailemeetai/go-sdk/go-sdk/logger"
+	"github.com/thailemeetai/go-sdk/logger"
 )
 
 type FirebaseCloudMessaging interface {

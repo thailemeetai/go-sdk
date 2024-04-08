@@ -3,8 +3,8 @@ package main
 import (
 	"context"
 	"fmt"
-	goservice "github.com/thailemeetai/go-sdk/go-sdk"
-	"github.com/thailemeetai/go-sdk/go-sdk/plugin/aws"
+	goservice "github.com/thailemeetai/go-sdk"
+	"github.com/thailemeetai/go-sdk/plugin/aws"
 	"log"
 )
 

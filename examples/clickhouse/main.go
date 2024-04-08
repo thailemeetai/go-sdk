@@ -7,8 +7,8 @@
 package main
 
 import (
-	goservice "github.com/thailemeetai/go-sdk/go-sdk"
-	"github.com/thailemeetai/go-sdk/go-sdk/plugin/storage/sdkclickhouse"
+	goservice "github.com/thailemeetai/go-sdk"
+	"github.com/thailemeetai/go-sdk/plugin/storage/sdkclickhouse"
 )
 
 func main() {

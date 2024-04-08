@@ -1,4 +1,4 @@
-module github.com/thailemeetai/go-sdk/go-sdk
+module github.com/thailemeetai/go-sdk
 
 go 1.18
 

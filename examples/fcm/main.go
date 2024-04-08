@@ -4,8 +4,8 @@ import (
 	"context"
 	// "context"
 	"fmt"
-	goservice "github.com/thailemeetai/go-sdk/go-sdk"
-	"github.com/thailemeetai/go-sdk/go-sdk/plugin/fcm"
+	goservice "github.com/thailemeetai/go-sdk"
+	"github.com/thailemeetai/go-sdk/plugin/fcm"
 	"log"
 )
 

@@ -3,9 +3,9 @@ package main
 import (
 	"context"
 	"fmt"
-	goservice "github.com/thailemeetai/go-sdk/go-sdk"
-	"github.com/thailemeetai/go-sdk/go-sdk/plugin/cloudinary"
-	"github.com/thailemeetai/go-sdk/go-sdk/sdkcm"
+	goservice "github.com/thailemeetai/go-sdk"
+	"github.com/thailemeetai/go-sdk/plugin/cloudinary"
+	"github.com/thailemeetai/go-sdk/sdkcm"
 	"log"
 )
 

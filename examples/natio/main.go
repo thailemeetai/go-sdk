@@ -2,9 +2,9 @@ package main
 
 import (
 	"context"
-	goservice "github.com/thailemeetai/go-sdk/go-sdk"
-	pb "github.com/thailemeetai/go-sdk/go-sdk/plugin/pubsub"
-	"github.com/thailemeetai/go-sdk/go-sdk/plugin/pubsub/natspb"
+	goservice "github.com/thailemeetai/go-sdk"
+	pb "github.com/thailemeetai/go-sdk/plugin/pubsub"
+	"github.com/thailemeetai/go-sdk/plugin/pubsub/natspb"
 	"log"
 )
 

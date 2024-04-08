@@ -9,8 +9,8 @@ package sdkgorm
 import (
 	"errors"
 	"flag"
-	"github.com/thailemeetai/go-sdk/go-sdk/logger"
-	"github.com/thailemeetai/go-sdk/go-sdk/plugin/storage/sdkgorm/gormdialects"
+	"github.com/thailemeetai/go-sdk/logger"
+	"github.com/thailemeetai/go-sdk/plugin/storage/sdkgorm/gormdialects"
 	"gorm.io/gorm"
 	"strings"
 	"sync"
