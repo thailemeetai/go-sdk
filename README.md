@@ -1,1 +1,3 @@
-# go-sdk
+# Go SDK
+
+A framework for thaile Golang Microservices
